@@ -54,3 +54,6 @@ Here is the Html code , you can just add.
   </body>
 </html>
 ```
+
+#Here is how I solved https://sujilnt.github.io/Css-challege-1/
+
