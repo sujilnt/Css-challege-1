@@ -10,3 +10,5 @@ Hints:
 You'll need to link your HTML to a new stylesheet.
 You can use the following fonts list for help: http://www.w3.org/Style/Examples/007/fonts
 Don't worry if your text doesn't wrap at the same word -- it will depend on the size of your browser window.
+
+![alt tag](https://upload.wikimedia.org/wikiversity/en/0/0c/Css_challenges_1.png)
