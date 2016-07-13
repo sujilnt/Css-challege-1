@@ -1,0 +1,9 @@
+body{
+    background: #5B7FBD;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+
+}
+ul li{
+    text-align: center;
+    list-style-position: inside;
+}
