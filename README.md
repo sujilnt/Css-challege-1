@@ -7,13 +7,15 @@ This first challenge only involves changing your fonts and colours - no layout o
 
 Hints:
 
-You'll need to link your HTML to a new stylesheet.
-You can use the following fonts list for help: http://www.w3.org/Style/Examples/007/fonts
-Don't worry if your text doesn't wrap at the same word -- it will depend on the size of your browser window.
+You'll need to link your HTML to a new stylesheet.<br>
+You can use the following fonts list for help: http://www.w3.org/Style/Examples/007/fonts<br>
+Don't worry if your text doesn't wrap at the same word -- it will depend on the size of your browser window.<br>
 
 ![alt tag](https://upload.wikimedia.org/wikiversity/en/0/0c/Css_challenges_1.png)
 
 Here is the Html code ,you can just add 
+<br>
+```html
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
   "http://www.w3.org/TR/html4/strict.dtd">
 <html>
@@ -51,3 +53,4 @@ Here is the Html code ,you can just add
     </p>
   </body>
 </html>
+```
