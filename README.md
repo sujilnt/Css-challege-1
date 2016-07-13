@@ -5,7 +5,7 @@ These challenges are here to help you flex your CSS skills, and see where you ne
 
 This first challenge only involves changing your fonts and colours - no layout or other more advanced CSS here! Copy-n-paste the HTML to get started, and click on the image to see what your page should look like!
 
-Hints:
+#Hints:
 
 You'll need to link your HTML to a new stylesheet.<br>
 You can use the following fonts list for help: http://www.w3.org/Style/Examples/007/fonts<br>
@@ -13,7 +13,7 @@ Don't worry if your text doesn't wrap at the same word -- it will depend on the 
 
 ![alt tag](https://upload.wikimedia.org/wikiversity/en/0/0c/Css_challenges_1.png)
 
-Here is the Html code ,you can just add 
+Here is the Html code , you can just add.
 <br>
 ```html
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
